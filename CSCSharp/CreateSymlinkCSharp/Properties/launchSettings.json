@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CreateSymlinkCSharp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\test\\dummy.txt\" \"E:\\test\\dummy\" \"E:\\test\\testaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatestaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\" \"E:\\test\\dest\""
+    }
+  }
+}
